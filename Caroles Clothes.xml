@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "apparel.dtd">
+<?xml-stylesheet type="text/css" href="Rule1.css"?>
+<apparel>
+	<product>
+		<title>Shift dress</title>
+		<price>45.00</price>
+		<description>Description: Description: Simple shift, available in two colours. 100% cotton.</description>
+		<picture>shiftdress.jpg</picture>
+		<sound>shiftdress.mp3</sound>
+	</product>
+	<product>
+		<title>Wraparound skirt</title>
+		<price>$30.00</price>
+		<description>Description: Description: Winter product, available in two colours. 100% wool.</description>
+		<picture>wraparoundskirt.jpg</picture>
+		<sound>wraparoundskirt.mp3</sound>
+	</product>
+	<product>
+		<title>Cardigan</title>
+		<price>$70.00</price>
+		<description>Description: Description: Winter product, available in two colours. 100% wool.</description>
+		<picture>cardigan.jpg</picture>
+		<sound>cardigan.mp3</sound>
+	</product>
+	<product>
+		<title>Dress  Hat</title>
+		<price>$20.00</price>
+		<description>Description: Description: Stylish dress hat, available in two colours. 100% linen.</description>
+		<picture>dresshat.jpg</picture>
+		<sound>dresshat.mp3</sound>
+	</product>
+</apparel>
